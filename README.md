@@ -98,5 +98,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Ragul Balaji**  
-Electronics and Communication Engineering Student  
-Passionate about IoT, Embedded Systems & Robotics
+Electronics and Communication Engineering Student 
